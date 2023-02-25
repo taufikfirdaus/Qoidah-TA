@@ -1,0 +1,60 @@
+ada berapakah ciri-ciri kalimah isim . . . ?;
+4;
+5;
+6;
+5;
+|
+ada berapakah macam-macam munada . . . ?;
+3;
+4;
+5;
+5;
+|
+apa yang dinamakan munada . . . ?;
+isim yang jatuh setelah huruf nida';
+isim yang menunjukkan subyek atau pelaku pekerjaan;
+isim yang menunjukkan obyek atau sesuatu yang dikenai pekerjaan;
+isim yang jatuh setelah huruf nida';
+|
+apa yang dinamakan isim nakiroh . . . ?;
+isim yang menunjukkan subyek atau pelaku pekerjaan;
+isim yang menunjukkan makna umum dan bisa menerima AL dan bila diberi AL maka menjadi ma'rifat;
+isim yang jatuh setelah huruf nida;
+isim yang menunjukkan makna umum dan bisa menerima AL dan bila diberi AL maka menjadi ma'rifat;
+|
+apa yang dinamakan mashdar . . . ?;
+isim yang mempunyai kata kerja/shifat yang bermakna pe...an/ke...an;
+isim yang menunjukkan makna 1;
+isim yang menunjukkan makna 2;
+isim yang mempunyai kata kerja/shifat yang bermakna pe...an/ke...an;
+|
+munada mufrod ma'rifat hukumnya . . . ?;
+nashab;
+mabni Rafa';
+jer;
+mabni Rafa';
+|
+munada mudhof hukumnya . . . ?;
+nashab;
+Rafa;
+jer;
+nashab;
+|
+munada nakiroh maqsudah hukumnya . . . ?;
+nashab;
+mabni Rafa';
+jer;
+mabni Rafa';
+|
+apa yang dinamakan Munada Mufrod Ma'rifat . . . ?;
+Munada berupa isim Nakiroh yang ditentukan.;
+Munada berupa nama/shifat yang tidak mudhof.;
+Munada berupa isim nakiroh yang tidak ditentukan.;
+Munada berupa nama/shifat yang tidak mudhof.;
+|
+apa yang dinamakan Munada mudhof . . . ?;
+Munada berupa nama/shifat yang tidak mudhof.;
+Munada yang dalam rangkaian idhofah mengeJERkan mudhof ilaih.;
+Munada berupa isim nakiroh yang tidak ditentukan.;
+Munada yang dalam rangkaian idhofah mengeJERkan mudhof ilaih.;
+|

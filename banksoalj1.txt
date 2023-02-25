@@ -1,0 +1,60 @@
+Apakah yang dinamakan I'rob . . . . ;
+Perubahan akhir kalimah karena kalimah lain;
+Gabungan dua isim atau lebih;
+Kata ganti;
+Perubahan akhir kalimah karena kalimah lain;
+|
+Ada berapakah i'rob itu . . . . ?;
+4;
+5;
+6;
+4;
+|
+ada berapakah huruf jer itu . . . . ?;
+21;
+22;
+20;
+20;
+|
+apakah yang dinamakan idlofah . . . . ?;
+Perubahan akhir kalimah karena kalimah lain;
+Gabungan dua isim atau lebih;
+Kata ganti;
+Gabungan dua isim atau lebih;
+|
+apakah yang dinamakan dhomir . . . . ?;
+Perubahan akhir kalimah karena kalimah lain;
+Gabungan dua isim atau lebih;
+Kata ganti;
+Kata ganti;
+|
+manakah yang bagian dari i'rob . . . .?;
+i'rob rafa' tanda aslinya dhommah;
+i'rob jer tanda aslinya kasroh;
+i'rob jazem tanda aslinya kasroh;
+i'rob rafa' tanda aslinya dhommah;
+|
+Huruf jer lam bila bertemu dhomir muttasil selain YA mutakallim maka dibaca . . . ?;
+fathah;
+kasroh;
+dhommah;
+fathah;
+|
+apakah yang dinamakan isim isyaroh . . .?;
+Perubahan akhir kalimah karena kalimah lain;
+kata tunjuk;
+Gabungan dua isim atau lebih;
+kata tunjuk;
+|
+apakah yang dinamakan isim maqshur . . .?;
+isim yang diakhiri alif maqsuroh;
+kata tunjuk;
+Gabungan dua isim atau lebih;
+isim yang diakhiri alif maqsuroh;
+|
+kata yang bertemu dengan YA' dhomir, maka dibaca kasroh, YA'nya dibaca . . . ?;
+sukun;
+dhommah;
+fathah;
+sukun;
+|
